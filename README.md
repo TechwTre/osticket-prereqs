@@ -39,6 +39,7 @@ Step 1: Navigate to "portal.azure.com/#home" to create a Resource Group. Search 
 </p>
 <br />
 
+
 Step 2: Click "Create" to create the Resource Group
 </p>
 
@@ -46,9 +47,18 @@ Step 2: Click "Create" to create the Resource Group
 </p>
 <br />
 
-Step 3: Name the resource group (ex: RG-osTicket). Choose a region. Choose a region close to your primary user base to minimize latency. Also ensure that the region complies with local laws regarding data residency and privacy. Click Review + create.
+
+Step 3: Name the resource group (ex: RG-osTicket). Choose a region (Choose a region close to your primary user base to minimize latency). Also ensure that the region complies with local laws regarding data residency and privacy. Click Review + create.
 </p>
 
 ![image](https://github.com/TechwTre/osticket-prereqs/assets/126909509/bb95c8b1-94d5-458f-85bd-1363438bf287)
 </p>
 <br />
+
+
+Step 4: Search for Virtual Machines. Click Create. Select Azure virtual machine.
+</p>
+
+
+<br />
+
