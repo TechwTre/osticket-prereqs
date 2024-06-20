@@ -106,7 +106,7 @@ Step 11: Copy the Public IP address(ex: 13.77.83.141). Open Remote Desktop Conne
 </p>
 <br />
 
-Step 12: Enter Username/Password we created in [Step 6] (Username ex: T-User). Click Ok. You should have now launched into the Virtual Machine
+Step 12: Enter Username/Password we created in [Step 6] (Username ex: T-User). Click Ok. You should have now launched into your Virtual Enviroment.
 </p>
 
 ![image](https://github.com/TechwTre/osticket-prereqs/assets/126909509/bba70cd2-1b2d-46db-a4bb-eb93e0c07300)
