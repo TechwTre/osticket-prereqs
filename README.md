@@ -99,3 +99,19 @@ Step 9: When deployment is complete. Navigate to Virtual Machines. Click the (Go
 </p>
 <br />
 
+Step 11: Copy the Public IP address(ex: 52.168.84.82). Open Remote Desktop Connection. Paste the Public IP address into bar. Click Connect.
+</p>
+
+![image](https://github.com/TechwTre/osticket-prereqs/assets/126909509/bf1a491b-49d7-46e3-8c48-99f40f17ae26)
+</p>
+<br />
+
+Step 12: Enter Username/Password we created in Step 6 (Username ex: jamesuser). Click Ok.
+</p>
+
+![image](https://github.com/TechwTre/osticket-prereqs/assets/126909509/bba70cd2-1b2d-46db-a4bb-eb93e0c07300)
+</p>
+<br />
+
+
+
