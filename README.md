@@ -2,13 +2,12 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
+
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+Tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<br />
+Part 1: Creating the virtual environment in Azure.<br />
+Part 2: Installation of software dependencies and osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,13 +21,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Microsoft Azure Active Subscription (Creation of Reasearch Group, VMs, Virtual Networks, Subnets)
+- Enable Internet Information Services(IIS)
+- PHP Manager
+- Rewrite Manager
+- C++ Redistributbal
+- MySQL Server
+- Install osTicket
+- Assigning Permissions
 
-<h2>Installation Steps</h2>
+<h2>Installation Steps (Part 1) Steps: 1-12</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
