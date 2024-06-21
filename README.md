@@ -113,7 +113,7 @@ Step 12: Enter Username/Password we created in [Step 6] (Username ex: T-User). C
 </p>
 <br />
 
-<h2>Installation Steps (Part 2) Steps:  13 - 47</h2>
+<h2>Installation Steps (Part 2) Steps:  13 - 45</h2>
 
 Step 13: Right click the start menu and select "Run". Type 'control' and hit enter to open the Control Panel.
 </p>
