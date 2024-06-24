@@ -21,14 +21,14 @@ Part 2: Installation of software dependencies and osTicket.<br />
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Azure Active Subscription (Creation of Reasearch Group, VMs, Virtual Networks, Subnets)
+- Microsoft Azure Virtual Machine
 - Internet Information Services(IIS)
 - PHP Manager
 - Rewrite Manager
 - C++ Redistributbal
 - MySQL (5.5.62) Server
 - Heidi SQL
-- Install osTicket
+- osTicket v1.15.8
 - Assigning Permissions
 
 <h2>Installation Steps (Part 1) Steps: 1-12</h2>
