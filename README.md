@@ -36,7 +36,7 @@ Part 2: Installation of software dependencies and osTicket.<br />
 Step 1: Navigate to "portal.azure.com" to create a Resource Group. Search for Resource Groups. This group will house the Virtual Network and Subnet. 
 </p>
 
-![image](https://github.com/TechwTre/osticket-prereqs/assets/126909509/e127feae-1f94-4246-ba86-8e9f061cc551) 
+![image](https://github.com/TechwTre/osticket-prereqs/assets/126909509/c1b4f3ea-c20a-4d52-8e8b-b1528339a154)
 </p>
 <br />
 
